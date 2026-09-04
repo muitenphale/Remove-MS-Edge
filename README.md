@@ -21,14 +21,9 @@
 - Xbox App
 ```
 
-**EXE Version**  
-[Edge Only](https://github.com/ShadowWhisperer/Remove-MS-Edge/releases/latest/download/Remove-Edge.exe)  
-[No Terminal](https://github.com/ShadowWhisperer/Remove-MS-Edge/releases/latest/download/Remove-EdgeTerm.exe) - Edge only, with no terminal. Useful for Task Scheduler  
-[Edge + WebView ](https://github.com/ShadowWhisperer/Remove-MS-Edge/releases/latest/download/Remove-EdgeWeb.exe)  
-
 <br>  
 
-**Build .exe version from source**  
+**Build .exe version from source**   Depreciated  
 ```pyinstaller --onefile --noconsole -i icon.ico -n Remove-Edge.exe edge.py --add-data "setup.x64.exe;." --add-data "setup.x86.exe;."```  
 
 <br>
