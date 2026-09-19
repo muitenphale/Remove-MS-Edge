@@ -6,20 +6,19 @@
 ```
 
 **Requires WebView**  
-```
 - Eclipse IDEs
 - Gmpublisher (Garry's Mod)  
-- ImageGlass
+- ImageGlass 9 (while earlier and later versions do not)
 - Lenovo USB Recovery Creator Tool
 - Microsoft Photos App (Edit)
-- PowerToys File Explorer add-ons utility
+- PowerToys File Explorer add-ons utility (Alternative: [win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust))
 - Quicken
 - Rex Atmos for MSFS 2020
 - Roblox
 - Safing Portmaster
 - Windows Mail  
 - Xbox App
-```
+- Tauri-based apps (OmniGet, Readest, etc.)
 
 <br>  
 
