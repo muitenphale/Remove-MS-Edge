@@ -6,6 +6,7 @@
 ```
 
 **Requires WebView**  
+- Barracuda Firewall Admin
 - Eclipse IDEs
 - Gmpublisher (Garry's Mod)  
 - ImageGlass 9 (while earlier and later versions do not)
